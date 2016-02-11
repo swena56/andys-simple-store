@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'coffee-script-source', '~> 1.8.0'
+gem 'zurb-foundation', '~> 4.3', '>= 4.3.2'
 
 group :development, :test do
 gem 'sqlite3-ruby'end
